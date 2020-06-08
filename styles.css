@@ -1,0 +1,84 @@
+body{
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+}
+h1
+{
+  font-size:80px;
+  margin-top:50px auto 0 auto;
+  font-family: 'Dancing Script', cursive;
+  color:#66BFBF
+}
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+.hi
+{
+  visibility: hidden;
+}
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+.bab
+{
+  max-width: 300px;
+  max-height: 400px;
+}
+.web{
+  max-width: 250px;
+  max-height: 400px;
+  float: left;
+  margin-right: 30px;
+}
+  .top-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+  line-height: 2;
+}
+.top-cloud
+{
+  position: absolute;
+  right:300px;
+  top:40px;
+}
+.bottom-cloud
+{
+  position: absolute;
+  left:250px;
+  bottom:300px;
+}
+.middle-container
+{
+  margin: 100px 0;
+  font-family: 'Sriracha', cursive;
+}
+a
+{
+  color:#11999E
+
+}
+.chilly {
+  width: 250px;
+  float: right;
+  margin-left: 30px;
+}
